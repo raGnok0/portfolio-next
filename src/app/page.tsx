@@ -1,4 +1,3 @@
-import Navbar from "@/components/nav/Nabvar";
 import Topscreen from "@/components/Topscreen";
 import SecondScreen from "@/components/SecondScreen";
 import Footer from "@/components/Footer";

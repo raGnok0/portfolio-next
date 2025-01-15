@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from "react";
 
 export default function Gallery() {
-    const [scrollY, setScrollY] = useState(0);
+    // const [scrollY, setScrollY] = useState(0);
     const [lastScrollY, setLastScrollY] = useState(0);
     const [scrollDirection, setScrollDirection] = useState("down");
   
