@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image";
 import React, { useEffect, useState } from "react";
 
 export default function Gallery() {
@@ -44,7 +45,7 @@ export default function Gallery() {
             <div className="mt-20 pb-36 rounded-b-full">
                 <div className="grid grid-cols-4 gap-4" style={row1Style}>
                     <div>
-                        <img src="/images/home-item-1.jpg" alt="Home Item 1" className="w-full h-auto" />
+                        <Image src="/images/home-item-1.jpg" alt="Home Item 1" className="w-full h-auto" />
                     </div>
                     <div>
                         <video
@@ -56,7 +57,7 @@ export default function Gallery() {
                         />
                     </div>
                     <div>
-                        <img src="/images/home-item-3.jpg" alt="Home Item 3" className="w-full h-auto" />
+                        <Image src="/images/home-item-3.jpg" alt="Home Item 3" className="w-full h-auto" />
                     </div>
                     <div>
                         <video
@@ -80,7 +81,7 @@ export default function Gallery() {
                         />
                     </div>
                     <div>
-                        <img src="/images/home-item-6.jpg" alt="Home Item 6" className="w-full h-auto" />
+                        <Image src="/images/home-item-6.jpg" alt="Home Item 6" className="w-full h-auto" />
                     </div>
                     <div>
                         <video
@@ -92,7 +93,7 @@ export default function Gallery() {
                         />
                     </div>
                     <div>
-                        <img src="/images/home-item-8.jpg" alt="Home Item 8" className="w-full h-auto" />
+                        <Image src="/images/home-item-8.jpg" alt="Home Item 8" className="w-full h-auto" />
                     </div>
                 </div>
             </div>
