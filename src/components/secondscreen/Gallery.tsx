@@ -45,11 +45,11 @@ export default function Gallery() {
             <div className="mt-20 pb-36 rounded-b-full">
                 <div className="grid grid-cols-4 gap-4" style={row1Style}>
                     <div>
-                        <Image src="/images/home-item-1.jpg" alt="Home Item 1" className="w-full h-auto" />
+                        <Image src="/portfolio-next/images/home-item-1.jpg" alt="Home Item 1" className="w-full h-auto" />
                     </div>
                     <div>
                         <video
-                            src="/images/home-item-2.mp4"
+                            src="/portfolio-next/images/home-item-2.mp4"
                             autoPlay
                             loop
                             muted
@@ -57,11 +57,11 @@ export default function Gallery() {
                         />
                     </div>
                     <div>
-                        <Image src="/images/home-item-3.jpg" alt="Home Item 3" className="w-full h-auto" />
+                        <Image src="/portfolio-next/images/home-item-3.jpg" alt="Home Item 3" className="w-full h-auto" />
                     </div>
                     <div>
                         <video
-                            src="/images/home-item-4.mp4"
+                            src="/portfolio-next/images/home-item-4.mp4"
                             autoPlay
                             loop
                             muted
@@ -73,7 +73,7 @@ export default function Gallery() {
                 <div className="grid grid-cols-4 gap-4 mt-8" style={row2Style}>
                     <div>
                         <video
-                            src="/images/home-item-5.mp4"
+                            src="/portfolio-next/images/home-item-5.mp4"
                             autoPlay
                             loop
                             muted
@@ -81,11 +81,11 @@ export default function Gallery() {
                         />
                     </div>
                     <div>
-                        <Image src="/images/home-item-6.jpg" alt="Home Item 6" className="w-full h-auto" />
+                        <Image src="/portfolio-next/images/home-item-6.jpg" alt="Home Item 6" className="w-full h-auto" />
                     </div>
                     <div>
                         <video
-                            src="/images/home-item-7.mp4"
+                            src="/portfolio-next/images/home-item-7.mp4"
                             autoPlay
                             loop
                             muted
@@ -93,7 +93,7 @@ export default function Gallery() {
                         />
                     </div>
                     <div>
-                        <Image src="/images/home-item-8.jpg" alt="Home Item 8" className="w-full h-auto" />
+                        <Image src="/portfolio-next/images/home-item-8.jpg" alt="Home Item 8" className="w-full h-auto" />
                     </div>
                 </div>
             </div>
