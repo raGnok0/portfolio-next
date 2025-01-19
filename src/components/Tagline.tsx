@@ -5,7 +5,7 @@ export default function Tagline() {
     <>
       <div className="w-11/12 sm:w-2/6 ml-auto mt-5 sm:mt-44">
         <div className="w-fit pb-1 -rotate-45 sm:pb-12">
-          <img
+          <Image
             width="30"
             height="30"
             src="https://img.icons8.com/ios-filled/50/long-arrow-down.png"

@@ -24,7 +24,7 @@ export default function Tagfooter() {
               <h1>together</h1>
             </div>
             <div className="mt-6 sm:mt-0 w-fit rotate-45">
-              <img
+              <Image
                 width="25"
                 height="25"
                 src="https://img.icons8.com/ios-filled/50/FFFFFF/long-arrow-down.png"

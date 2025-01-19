@@ -74,7 +74,7 @@ export default function Aboutsection() {
                                 </div>
                                 <div className="mt-5">
                                     <p className="text-black text-lg md:text-xl text-center md:text-left">
-                                        A complete website from concept to implementation, that's what
+                                        A complete website from concept to implementation, that&apos;s what
                                         makes me stand out. My great sense for design and my development
                                         skills enable me to create kick-ass projects.
                                     </p>

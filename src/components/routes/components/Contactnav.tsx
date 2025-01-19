@@ -50,7 +50,7 @@ export default function Contactnav() {
                 {/* Header Section */}
                 <div className="flex flex-col md:flex-row items-center w-11/12 md:w-9/12 mx-auto mt-20 space-y-10 md:space-y-0 md:space-x-10">
                     <h1 className="text-4xl md:text-6xl lg:text-8xl text-white text-center md:text-left">
-                        Let's start a project together
+                        Let&apos;s start a project together
                     </h1>
                     <div>
                         <Image
