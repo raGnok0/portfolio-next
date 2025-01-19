@@ -9,9 +9,9 @@ export default function Tagfooter() {
             <div className="mt-2 w-12 sm:w-auto">
               <Image
                 className="rounded-full"
-                width="100"
-                height="100"
-                src="/images/deb-profile.jpg"
+                width={100}
+                height={100}
+                src="/portfolio-next/images/deb-profile.jpg"
                 alt="Profile"
               />
             </div>
