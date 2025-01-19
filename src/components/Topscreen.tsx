@@ -5,7 +5,7 @@ import Bigname from "./Bigname"
 export default function Topscreen(){
     return(
         <>
-            <div className="bg-[url("/portfolio-next/images/deb.png")] bg-center sm:h-full bg-center" style={{
+            <div className="bg-[url('/portfolio-next/images/deb.png')] bg-center sm:h-full bg-center" style={{
                 backgroundRepeat:"no-repeat",
                 backgroundSize:"cover",
                 backgroundPosition:"center",
