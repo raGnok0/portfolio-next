@@ -77,7 +77,7 @@ export default function Aboutnav() {
                     <div className="w-full md:w-1/2 flex justify-center md:justify-end">
                         <Image
                             src="/portfolio-next/images/click.jpg"
-                            width={100}
+                            width={400}
                             height={400}
                             className="rounded-lg"
                             alt="Clicked image at college"
