@@ -55,7 +55,7 @@ export default function Contactnav() {
                     <div>
                         <Image
                             className="rounded-full"
-                            src="/images/potraitdeb.jpg"
+                            src="/portfolio-next/images/potraitdeb.jpg"
                             width={150}
                             height={150}
                             alt="Portrait of Deb"
